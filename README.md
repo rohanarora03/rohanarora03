@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/49285048/187115289-3922cdd0-5092-4c30-a53c-7298002ce0b5.gif"  />
 
 ###
 
