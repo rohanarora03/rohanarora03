@@ -64,3 +64,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 -->
 ###
+
+<p align="center">Profile Visits</p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7brohanarora03%7d/count.svg" alt="visitor badge" width="150" height="25"></p>
+
+###
