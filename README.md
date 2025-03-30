@@ -1,6 +1,6 @@
 ###
 
-<h2 align="left">Hi 👋! My name is Rohan Arora and I'm a Software Developer from Canada.</h2>
+<h2 align="left">Hi 👋! My name is Rohan Arora and I'm a Data Analytics Developer from Canada.</h2>
 
 ###
 <!--
