@@ -1,68 +1,136 @@
-###
+<h1 align="center">Hi 👋, I'm Rohan Arora</h1>
 
-<h2 align="left">Hi 👋! My name is Rohan Arora and I'm a Data Analytics Developer from Canada.</h2>
+<h3 align="center">
+Data Analyst | Analytics Engineering | SQL • Python • GCP • BigQuery • BI • AI
+</h3>
 
-###
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+I build scalable data pipelines, analytics solutions, dashboards, and automation
+that turn complex data into actionable business insights.
+</p>
 
-###
--->
+<p align="center">
+  <a href="https://linkedin.com/in/rohanarora03">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Arora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rohanarora03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanarora03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanarora03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/49285048/187115289-3922cdd0-5092-4c30-a53c-7298002ce0b5.gif"  />
+- 📊 Data Analyst at **TELUS**, working across analytics engineering, BI, and data pipelines
+- ☁️ Building and modernizing data workflows using **GCP, BigQuery, SQL, and Python**
+- 🔄 Experienced in migrating legacy **SAS / Oracle / SSIS** processes to cloud-based analytics solutions
+- 📈 Building dashboards and analytics solutions that support marketing, sales, customer, and revenue insights
+- 🤖 Exploring **GenAI, AI agents, workflow automation, and LLM-powered analytics**
+- 🏆 Hackathon experience building practical AI-powered solutions
+- 🎓 Master's in Management Sciences — Data Analytics from the **University of Waterloo**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### Data & Analytics
 
-<div align="left">
-  <!--
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  -->
-  <a href="mailto:rohanarora03@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> </a>
- <a href="https://linkedin.com/in/rohanarora03"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-1E90FF?style=for-the-badge" />
+</p>
 
-###
-<!--
-<br clear="both">
+### Cloud & Data Engineering
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
--->
-###
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-Data%20Pipelines-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<p align="center">Profile Visits</p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7brohanarora03%7d/count.svg" alt="visitor badge" width="150" height="25"></p>
+### BI & Visualization
 
-###
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+</p>
+
+### Software & AI
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-LLMs-8A2BE2?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 What I Work On
+
+### ☁️ Cloud Data & Analytics Engineering
+Designing SQL and Python-based data workflows, transforming large datasets in
+BigQuery, and orchestrating scheduled analytics pipelines on GCP.
+
+### 📊 Business Intelligence & Analytics
+Building reporting and analytical solutions for customer, product, revenue,
+marketing, and operational KPIs using SQL, Power BI, Tableau, Looker, and Domo.
+
+### 🔄 Data Modernization
+Modernizing legacy SAS, Oracle, and SSIS workloads into scalable cloud-based
+data pipelines while implementing reconciliation and data-quality validation.
+
+### 🤖 AI & Automation
+Experimenting with GenAI, LLMs, AI agents, and automated workflows to reduce
+manual analysis and improve how teams interact with data.
+
+---
+
+## ⭐ Selected Work & Projects
+
+### 📈 Enterprise Analytics & Data Pipelines
+- Built analytics datasets combining data across multiple enterprise systems
+- Developed automated Python and SQL-based transformation workflows
+- Supported migration of **30+ legacy SAS jobs** and **70+ data assets** to BigQuery
+- Implemented validation across KPIs, segments, products, and source systems
+
+### 🤖 AI-Powered Job Matching
+**University of Waterloo AI Hackathon**
+
+Built an intelligent job-matching solution using:
+
+`GPT` • `LangChain` • `FastAPI` • `Neo4j` • `Python`
+
+Designed to improve how students discover relevant opportunities based on their
+skills and experience.
+
+### 💳 Machine Learning — Credit Default Prediction
+Built and evaluated classification models including:
+
+`LightGBM` • `Logistic Regression` • `Random Forest` • `Python` • `scikit-learn`
+
+Performed data preprocessing, EDA, feature analysis, model evaluation, and ROC/AUC analysis.
+
+---
+
+## 🎯 Currently Exploring
+
+- Agentic AI & AI-powered analytics
+- LLM-powered data workflows
+- Data engineering & orchestration
+- Modern analytics engineering
+- Cloud-native data platforms
+
+---
+
+<p align="center">
+  <b>SQL • Python • GCP • BigQuery • Analytics Engineering • BI • AI</b>
+</p>
