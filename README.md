@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Arora</h1>
 
 <h3 align="center">
-Data Analyst | Analytics Engineering | SQL • Python • GCP • BigQuery • BI • AI
+Data Analyst | Analytics Engineering | SQL • Python • GCP • BigQuery • Power BI • AI
 </h3>
 
 <p align="center">
@@ -132,5 +132,5 @@ Performed data preprocessing, EDA, feature analysis, model evaluation, and ROC/A
 ---
 
 <p align="center">
-  <b>SQL • Python • GCP • BigQuery • Analytics Engineering • BI • AI</b>
+  <b>SQL • Python • GCP • BigQuery • Analytics Engineering • Power BI • AI</b>
 </p>
